@@ -2,8 +2,6 @@
 
 Hello and welcome to the **SmartWatch Activity Simulator**! This fun little test project simulates the data generation of a smartwatch's accelerometer and gyroscope. But that's not all; it also predicts human activity based on this data! 
 
-Ever wondered how your smartwatch knows if you're walking, running, or just chilling? Let's dive into the magical world of smartwatch data, and find out! 🏃‍♀️🚶‍♂️🪑
-
 ## How it works:
 1. **SmartWatchSimulator.py:** This file contains a class `Smartwatch` which can generate random accelerometer and gyroscope data, simulating the kind of data a real smartwatch might capture.
 
